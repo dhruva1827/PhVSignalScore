@@ -1,0 +1,11 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Local logs and task logs
+.system_generated/
+*.log
+scratch/
+
+# Local MS Word drafts
+*draft*.docx
