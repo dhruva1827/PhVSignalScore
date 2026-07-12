@@ -1,0 +1,151 @@
+Drug_Name,Adverse_Event,Status,Source_Reference,FAERS_Case_Count,S1,S2_raw,S3,S4,S5,S6,S7,years_since_approval,notoriety_flag,stimulated_reporting_flag,ground_truth_confidence,temporal_cohort,demographic_minority_flag,prr_raw
+Rosiglitazone,Myocardial Infarction,CONFIRMED,FDA Alert 2007,478,90,61.72,95,80,90,85,73.38,8.0,1,1,1.0,2005-2010,0,5.96
+Thalidomide,Phocomelia,CONFIRMED,WHO Case Book,459,100,61.31,100,95,95,95,91.15,4.0,1,0,1.0,2000-2005,0,3.848
+Cerivastatin,Rhabdomyolysis,CONFIRMED,FDA Withdrawal 2001,1114,95,70.17,95,85,95,90,77.48,3.0,1,1,1.0,2000-2005,1,6.106
+Troglitazone,Hepatic Failure,CONFIRMED,FDA Withdrawal 2000,1482,98,73.02,90,75,90,80,69.4,3.0,1,1,1.0,2000-2005,1,12.573
+Terfenadine,Torsades de Pointes,CONFIRMED,FDA Withdrawal 1997,1366,92,72.2,85,70,85,75,71.29,12.0,1,1,1.0,2010-2015,0,6.812
+Clozapine,Agranulocytosis,CONFIRMED,Black Box Warning,2065,85,76.33,90,60,95,70,74.04,1.0,1,0,1.0,2000-2005,0,4.975
+Valproate,Neural Tube Defects,CONFIRMED,EMA Warning 2018,1115,88,70.18,95,90,95,80,74.1,30.0,1,0,1.0,2005-2010,1,17.337
+Amiodarone,Pulmonary Fibrosis,CONFIRMED,Prescribing Info,397,80,59.86,85,70,80,60,58.05,15.0,0,0,1.0,2015-2020,1,3.999
+Isotretinoin,Congenital Anomaly,CONFIRMED,FDA iPLEDGE 2005,75,95,43.31,98,95,95,90,89.71,23.0,1,1,1.0,2020-2025,0,15.01
+Varenicline,Suicidal Ideation,CONFIRMED,FDA Alert 2009,4203,85,83.44,75,65,80,70,71.95,3.0,1,1,1.0,2000-2005,0,17.583
+Sibutramine,Myocardial Infarction,CONFIRMED,EMA Withdrawal 2010,1025,90,69.33,80,70,90,75,66.18,13.0,1,1,1.0,2010-2015,0,12.244
+Propoxyphene,Cardiac Arrhythmia,CONFIRMED,FDA Withdrawal 2010,990,92,68.99,85,75,85,65,65.66,53.0,1,1,1.0,2005-2010,0,3.21
+Gadolinium,Nephrogenic Systemic Fibrosis,CONFIRMED,FDA Alert 2006,716,88,65.75,90,80,90,80,80.6,10.0,1,0,1.0,2010-2015,0,15.757
+Aprotinin,Renal Failure,CONFIRMED,FDA Withdrawal 2007,456,82,61.25,85,70,90,75,70.7,14.0,1,1,1.0,2010-2015,0,15.429
+Efalizumab,Progressive Multifocal Leukoencephalopathy,CONFIRMED,FDA Withdrawal 2009,583,98,63.7,95,65,90,85,78.55,6.0,1,0,1.0,2005-2010,1,6.638
+Fenfluramine,Cardiac Valvulopathy,CONFIRMED,FDA Withdrawal 1997,396,85,59.84,92,75,95,80,78.14,24.0,1,1,1.0,2000-2005,1,13.801
+Dexfenfluramine,Pulmonary Hypertension,CONFIRMED,FDA Withdrawal 1997,584,88,63.72,90,75,90,80,75.93,1.0,1,1,1.0,2000-2005,0,16.844
+Nefazodone,Hepatic Failure,CONFIRMED,FDA Withdrawal 2003,1390,98,72.38,88,70,85,75,68.29,9.0,1,0,1.0,2005-2010,0,14.409
+Pemoline,Hepatotoxicity,CONFIRMED,FDA Withdrawal 2005,364,92,59.0,85,75,85,70,64.44,30.0,1,0,1.0,2005-2010,1,7.39
+Bromfenac,Hepatotoxicity,CONFIRMED,FDA Withdrawal 1998,2,95,10.99,90,70,90,85,77.02,1.0,1,1,1.0,2000-2005,1,17.115
+Temafloxacin,Hemolytic Anemia,CONFIRMED,FDA Withdrawal 1992,894,85,67.97,92,75,90,80,72.19,0.5,1,1,1.0,2000-2005,0,16.213
+Mibefradil,Drug Interactions,CONFIRMED,FDA Withdrawal 1998,1189,90,70.82,88,80,85,75,67.14,1.0,1,1,1.0,2000-2005,1,14.047
+Rapacuronium,Bronchospasm,CONFIRMED,FDA Withdrawal 2001,1353,88,72.11,92,70,90,85,76.94,1.5,1,1,1.0,2000-2005,0,16.416
+Ximelagatran,Hepatotoxicity,CONFIRMED,Withdrawal 2006,1067,95,69.74,90,75,90,80,74.43,2.0,1,0,1.0,2000-2005,0,4.644
+Lumiracoxib,Hepatotoxicity,CONFIRMED,Withdrawal 2007,1260,95,71.4,90,75,90,80,70.36,2.0,1,0,1.0,2000-2005,1,4.2
+Rimonabant,Psychiatric Disorders,CONFIRMED,Withdrawal 2008,577,75,63.6,85,70,85,75,76.88,2.0,1,1,1.0,2000-2005,0,3.485
+Sitaxentan,Hepatotoxicity,CONFIRMED,Withdrawal 2010,1031,95,69.39,90,75,90,80,77.94,4.0,1,0,1.0,2000-2005,0,6.397
+Codeine,Respiratory Depression,CONFIRMED,FDA Warning 2013,70,90,42.63,95,95,90,85,81.3,50.0,1,0,1.0,2000-2005,0,13.044
+Hydroxyethyl Starch,Renal Failure,CONFIRMED,EMA Warning 2013,484,85,61.84,88,80,90,75,75.23,30.0,1,1,1.0,2005-2010,0,6.636
+Benfluorex,Valvular Heart Disease,CONFIRMED,Withdrawal 2009,946,85,68.53,92,75,95,80,70.67,33.0,1,0,1.0,2005-2010,0,9.533
+Alosetron,Ischemic Colitis,CONFIRMED,FDA Warning 2000,789,82,66.72,85,65,85,70,75.58,1.0,1,1,1.0,2000-2005,0,10.369
+Nimesulide,Hepatotoxicity,CONFIRMED,EMA Warning 2002,467,92,61.48,88,70,85,75,78.06,15.0,1,0,1.0,2015-2020,0,12.404
+Buflomedil,Neurological Events,CONFIRMED,EMA Withdrawal 2011,1497,80,73.12,85,75,85,70,63.98,30.0,1,0,1.0,2005-2010,0,5.004
+Tetrazepam,Stevens-Johnson Syndrome,CONFIRMED,EMA Withdrawal 2013,1336,92,71.98,90,75,90,80,82.78,40.0,1,0,1.0,2015-2020,0,10.073
+Pioglitazone,Bladder Cancer,CONFIRMED,FDA warning 2011,9030,85,91.08,78,70,85,65,58.68,12.0,1,1,1.0,2010-2015,0,17.772
+Dronedarone,Hepatic Failure,CONFIRMED,FDA Alert 2011,77,98,43.57,80,70,80,70,73.1,2.0,1,1,1.0,2000-2005,1,6.234
+Ranolazine,QT Prolongation,CONFIRMED,Label Warning,1411,75,72.53,85,75,85,60,67.2,1.0,0,0,1.0,2000-2005,1,10.033
+Bevacizumab,Arterial Thromboembolism,CONFIRMED,Label Warning,391,88,59.71,88,80,90,70,75.67,5.0,1,0,1.0,2005-2010,0,4.449
+Interferon beta-1a,Thrombotic Microangiopathy,CONFIRMED,EMA Alert 2014,78,85,43.69,85,65,85,75,74.9,18.0,1,0,1.0,2015-2020,0,5.059
+Adalimumab,Demyelinating Disease,CONFIRMED,Label Warning,7,82,20.79,80,60,80,65,64.92,6.0,1,0,1.0,2005-2010,0,17.448
+Prasugrel,Hemorrhage,CONFIRMED,Black Box Warning,1354,85,72.12,92,80,95,80,80.33,1.0,1,1,1.0,2000-2005,0,13.551
+Rivaroxaban,Hemorrhage,CONFIRMED,EMA warning 2013,1067,85,69.74,92,80,90,75,79.93,5.0,1,1,1.0,2005-2010,0,9.291
+Dabigatran,Gastrointestinal Hemorrhage,CONFIRMED,FDA Alert 2012,1309,85,71.78,92,80,90,75,71.77,2.0,1,1,1.0,2000-2005,1,3.492
+Fingolimod,Bradycardia,CONFIRMED,FDA Warning 2010,1413,70,72.54,95,65,90,85,73.32,0.5,1,1,1.0,2000-2005,0,11.621
+Tolvaptan,Hepatotoxicity,CONFIRMED,FDA Warning 2013,66,90,42.05,85,70,85,70,61.11,4.0,1,0,1.0,2000-2005,0,3.413
+Lorcaserin,Cardiac Valvulopathy,CONFIRMED,Withdrawal 2020,388,85,59.64,80,70,85,70,74.58,8.0,1,0,1.0,2005-2010,0,3.598
+Rofecoxib,Cardiac Failure,CONFIRMED,FDA Alert 2004,737,90,66.04,95,80,95,85,77.18,5.0,1,1,1.0,2005-2010,0,10.858
+Gatifloxacin,Dysglycemia,CONFIRMED,Withdrawal 2006,1419,80,72.58,90,85,90,80,77.64,7.0,1,1,1.0,2005-2010,1,9.831
+Pergolide,Cardiac Valvulopathy,CONFIRMED,FDA Withdrawal 2007,1083,85,69.88,95,75,95,80,71.86,18.0,1,0,1.0,2015-2020,1,9.181
+Natalizumab,Progressive Multifocal Leukoencephalopathy,CONFIRMED,FDA warning 2005,2113,98,76.56,95,65,90,85,79.35,1.0,1,0,1.0,2000-2005,0,13.801
+Infliximab,Hepatosplenic T-cell Lymphoma,CONFIRMED,FDA Box Warning,183,98,52.15,88,90,90,75,75.1,8.0,1,0,1.0,2005-2010,0,4.025
+Levetiracetam,Suicidal Ideation,CONFIRMED,FDA Alert 2008,1292,85,71.65,75,65,80,70,67.04,9.0,1,1,1.0,2005-2010,0,15.856
+Isotretinoin,Depression,CONFIRMED,FDA Warning 2005,5850,80,86.74,75,75,80,65,60.73,23.0,1,1,1.0,2020-2025,1,9.454
+Abacavir,Hypersensitivity Syndrome,CONFIRMED,FDA Box Warning,1114,85,70.17,98,75,95,90,79.75,2.0,1,0,1.0,2000-2005,0,16.055
+Carbamazepine,Stevens-Johnson Syndrome,CONFIRMED,FDA warning 2007,914,92,68.19,95,80,95,80,70.13,33.0,1,0,1.0,2005-2010,0,15.767
+Allopurinol,Toxic Epidermal Necrolysis,CONFIRMED,Literature Case,1155,95,70.53,90,75,90,75,66.47,40.0,1,0,1.0,2015-2020,0,10.879
+Alendronate,Osteonecrosis of Jaw,CONFIRMED,FDA Alert 2005,2551,75,78.45,82,70,85,65,57.22,10.0,1,0,1.0,2010-2015,1,14.18
+Metoclopramide,Tardive Dyskinesia,CONFIRMED,FDA Box Warning 2009,16218,78,96.94,92,75,90,75,68.55,30.0,1,0,1.0,2005-2010,0,9.961
+Mycophenolate mofetil,Congenital Malformation,CONFIRMED,FDA Box Warning 2007,1071,88,69.77,95,95,90,80,82.54,12.0,1,0,1.0,2010-2015,1,2.533
+Tigecycline,Increased Mortality,CONFIRMED,FDA warning 2010,1049,100,69.57,85,80,95,75,68.98,5.0,1,0,1.0,2005-2010,0,9.553
+Ceftriaxone,Biliary Sludge,CONFIRMED,EMA warning 2007,1116,70,70.18,88,90,85,80,79.45,23.0,1,0,1.0,2020-2025,0,14.642
+Ciprofloxacin,Tendon Rupture,CONFIRMED,FDA warning 2008,1302,75,71.72,90,85,90,80,78.93,21.0,1,1,1.0,2020-2025,0,5.443
+Atorvastatin,Hyperglycemia,CONFIRMED,Label change 2012,695,60,65.45,85,70,90,70,75.53,15.0,1,0,1.0,2015-2020,0,10.904
+Olanzapine,Hyperglycemia,CONFIRMED,FDA warning 2003,892,75,67.95,88,70,85,70,61.86,7.0,1,0,1.0,2005-2010,0,10.294
+Esomeprazole,Hypomagnesemia,CONFIRMED,FDA warning 2011,1337,70,71.99,85,75,85,65,59.36,10.0,1,0,1.0,2010-2015,0,3.742
+Canagliflozin,Diabetic Ketoacidosis,CONFIRMED,FDA warning 2015,3802,82,82.44,90,75,90,80,71.79,2.0,1,1,1.0,2000-2005,0,12.966
+Hydrochlorothiazide,Neoplasm Skin,CONFIRMED,EMA warning 2018,57,75,40.6,72,70,85,60,56.53,50.0,1,0,1.0,2000-2005,1,16.299
+Montelukast,Depression,CONFIRMED,FDA Box Warning 2020,6064,78,87.1,82,85,85,70,64.69,22.0,1,1,1.0,2020-2025,0,12.1
+Dolutegravir,Neural Tube Defects,CONFIRMED,EMA warning 2018,1108,88,70.11,85,95,85,75,74.86,5.0,1,0,1.0,2005-2010,0,7.404
+Hepatitis B Vaccine,Multiple Sclerosis,CONFIRMED,Literature Case,784,80,66.66,55,70,65,50,48.06,10.0,1,1,1.0,2010-2015,0,6.2
+Anastrozole,Fracture,CONFIRMED,Pivotal Trial,1247,72,71.29,90,80,95,75,70.94,3.0,0,0,1.0,2000-2005,0,7.15
+Citalopram,QT Prolongation,CONFIRMED,FDA warning 2011,897,75,68.0,85,75,85,60,66.94,13.0,1,1,1.0,2010-2015,0,2.644
+Spironolactone,Hyperkalemia,CONFIRMED,RALES Trial,1403,80,72.47,90,80,95,70,75.94,40.0,1,1,1.0,2015-2020,1,5.804
+Estrogens,Venous Thromboembolism,CONFIRMED,WHI Trial,793,85,66.77,95,80,95,75,66.99,40.0,1,0,1.0,2015-2020,0,3.566
+Simvastatin,Myopathy,CONFIRMED,Label update,1514,70,73.23,90,75,90,70,64.66,15.0,0,0,1.0,2015-2020,0,9.292
+Atorvastatin,Pancreatic Cancer,REFUTED,OHDSI Neg Control,39,30,36.89,15,40,20,25,35.55,15.0,0,0,0.8,2015-2020,0,1.78
+Metformin,Pancreatitis,REFUTED,OHDSI Neg Control,6851,25,88.32,20,35,15,30,38.81,20.0,0,0,0.8,2020-2025,1,1.507
+Omeprazole,Gastric Cancer,REFUTED,OHDSI Neg Control,622,35,64.35,12,45,22,20,25.49,25.0,0,0,0.8,2000-2005,0,1.702
+Lisinopril,Lung Cancer,REFUTED,OHDSI Neg Control,177,30,51.82,10,40,18,25,27.01,30.0,0,0,0.8,2005-2010,1,0.371
+Simvastatin,Cognitive Impairment,REFUTED,FDA Label 2012,40,20,37.14,25,30,35,35,35.33,20.0,1,0,0.8,2020-2025,0,0.537
+Gabapentin,Suicide,REFUTED,OHDSI Neg Control,9044,40,91.1,15,45,20,30,34.14,18.0,1,0,0.8,2015-2020,0,1.565
+Sertraline,Violent Behavior,REFUTED,OHDSI Neg Control,37,35,36.38,10,40,15,20,28.33,15.0,1,0,0.8,2015-2020,0,1.554
+Fluoxetine,Birth Defects,REFUTED,OHDSI Neg Control,10,40,23.98,22,50,30,35,42.51,25.0,1,0,0.8,2000-2005,0,0.271
+Albuterol,Asthma Mortality,REFUTED,OHDSI Neg Control,26,45,32.96,18,45,25,25,36.57,40.0,0,0,0.8,2015-2020,0,0.619
+Montelukast,Alzheimer Disease,REFUTED,OHDSI Neg Control,33,20,35.26,8,35,12,15,25.28,15.0,0,0,0.8,2015-2020,0,0.215
+Metformin,Lactic Acidosis Non-renal,REFUTED,OHDSI Neg Control,9,35,23.03,15,35,20,20,35.18,30.0,0,0,0.8,2005-2010,0,0.438
+Lisinopril,Alopecia,REFUTED,OHDSI Neg Control,5752,10,86.57,12,20,10,10,15.0,32.0,0,0,0.8,2005-2010,0,1.084
+Aspirin,Renal Cell Carcinoma,REFUTED,OHDSI Neg Control,341,30,58.35,8,35,15,15,23.45,100.0,0,0,0.8,2000-2005,1,0.783
+Ibuprofen,Myocardial Infarction Chronic,REFUTED,OHDSI Neg Control,7,35,20.79,25,40,35,30,42.48,40.0,0,0,0.8,2015-2020,1,0.599
+Insulin Glargine,Breast Cancer,REFUTED,OHDSI Neg Control,662,38,64.97,20,45,30,35,34.54,10.0,1,0,0.8,2010-2015,0,1.615
+Omeprazole,Dementia,REFUTED,OHDSI Neg Control,1152,25,70.5,18,40,25,25,31.1,20.0,1,0,0.8,2020-2025,0,0.447
+Rosuvastatin,ALS,REFUTED,OHDSI Neg Control,20,45,30.45,12,35,15,15,29.97,8.0,1,0,0.8,2005-2010,0,1.497
+Alendronate,Esophageal Cancer,REFUTED,OHDSI Neg Control,31,35,34.66,22,40,25,20,21.37,12.0,1,0,0.8,2010-2015,0,0.731
+Amlodipine,Cancer Overall,REFUTED,OHDSI Neg Control,31,30,34.66,10,35,18,15,29.03,20.0,0,0,0.8,2020-2025,0,1.497
+Diazepam,Alzheimer Disease,REFUTED,OHDSI Neg Control,22,28,31.35,20,45,28,30,31.39,45.0,1,0,0.8,2020-2025,0,0.812
+Amitriptyline,Type 2 Diabetes,REFUTED,OHDSI Neg Control,49,22,39.12,15,30,15,20,21.58,40.0,0,0,0.8,2015-2020,0,0.519
+MMR Vaccine,Autism,REFUTED,Pivotal Study,34,60,35.55,2,90,95,80,74.24,12.0,1,1,0.8,2010-2015,0,1.594
+Oral Contraceptives,Multiple Sclerosis,REFUTED,OHDSI Neg Control,19,30,29.96,15,60,30,25,25.35,40.0,0,0,0.8,2015-2020,1,0.725
+Atenolol,Depression,REFUTED,Systematic Review,3045,25,80.22,22,35,35,30,41.97,35.0,1,0,0.8,2010-2015,0,0.647
+Risperidone,Stroke,REFUTED,OHDSI Neg Control,168,35,51.3,20,40,25,25,34.62,15.0,0,0,0.8,2015-2020,0,1.77
+Fluoride,IQ Reduction,REFUTED,Review,39,30,36.89,10,50,15,20,25.97,70.0,1,1,0.8,2020-2025,1,1.603
+Paracetamol,Autism Spectrum Disorder,REFUTED,Review,21,35,30.91,15,60,20,25,27.68,50.0,1,1,0.8,2000-2005,0,0.625
+Methotrexate,Cardiac Events,REFUTED,OHDSI Neg Control,11,35,24.85,18,35,20,20,29.95,40.0,0,0,0.8,2015-2020,0,1.458
+Hydroxychloroquine,Retinopathy Minor,REFUTED,OHDSI Neg Control,32,20,34.97,12,30,15,15,26.09,50.0,0,0,0.8,2000-2005,0,0.816
+Ramipril,Cancer Overall,REFUTED,OHDSI Neg Control,41,30,37.38,10,35,15,15,19.85,25.0,0,0,0.8,2000-2005,1,0.898
+Sildenafil,Hearing Loss,REFUTED,FDA Warning 2007,54,20,40.07,30,30,25,25,32.8,9.0,1,1,0.8,2005-2010,0,1.299
+Esomeprazole,Kidney Disease Chronic,REFUTED,OHDSI Neg Control,17,30,28.9,25,40,30,30,34.46,10.0,1,0,0.8,2010-2015,1,1.263
+Rosuvastatin,Parkinson Disease,REFUTED,OHDSI Neg Control,26,20,32.96,10,35,12,15,26.35,8.0,0,0,0.8,2005-2010,0,0.399
+Pregabalin,Cardiac Arrhythmia,REFUTED,OHDSI Neg Control,24,30,32.19,15,40,20,25,32.61,6.0,0,0,0.8,2005-2010,0,0.722
+Venlafaxine,Suicidality Adults Low-risk,REFUTED,OHDSI Neg Control,23,35,31.78,18,35,20,20,29.32,15.0,1,0,0.8,2015-2020,1,1.264
+Celecoxib,Colorectal Cancer,REFUTED,OHDSI Neg Control,31,30,34.66,8,35,15,15,22.69,10.0,0,0,0.8,2010-2015,0,0.478
+Quetiapine,Sudden Death,REFUTED,OHDSI Neg Control,291,45,56.77,20,40,25,25,33.54,12.0,0,0,0.8,2010-2015,0,1.534
+Aripiprazole,Weight Gain Mild,REFUTED,Label Info,24,15,32.19,35,30,35,30,33.3,5.0,0,0,0.8,2005-2010,0,1.128
+Duloxetine,Falls Elderly Low Risk,REFUTED,OHDSI Neg Control,25,25,32.58,15,45,20,20,27.97,6.0,0,0,0.8,2005-2010,0,0.542
+Bupropion,Seizures Standard Dose,REFUTED,Prescribing Info,35,35,35.84,30,30,40,35,44.91,20.0,0,0,0.8,2020-2025,0,1.378
+Topiramate,Metabolic Acidosis Minor,REFUTED,Label Info,10,20,23.98,32,35,30,30,33.26,10.0,0,0,0.8,2010-2015,0,1.191
+Lamotrigine,Bone Density Loss,REFUTED,OHDSI Neg Control,10,18,23.98,12,30,15,15,29.28,15.0,0,0,0.8,2015-2020,0,1.276
+Lithium,Thyroid Cancer,REFUTED,OHDSI Neg Control,44,30,38.07,10,35,18,15,20.37,45.0,0,0,0.8,2020-2025,1,0.239
+Valproate,Pancreatic Cancer,REFUTED,OHDSI Neg Control,20,30,30.45,8,35,15,15,31.76,30.0,0,0,0.8,2005-2010,0,1.43
+Levetiracetam,Renal Toxicity Mild,REFUTED,OHDSI Neg Control,34,15,35.55,12,30,15,15,23.22,9.0,0,0,0.8,2005-2010,0,0.511
+Zolpidem,Traffic Accidents Low Dose,REFUTED,OHDSI Neg Control,29,32,34.01,25,40,28,30,36.42,20.0,1,0,0.8,2020-2025,1,1.25
+Amlodipine,Myocardial Infarction,REFUTED,OHDSI Neg Control,7300,35,88.96,15,35,20,20,21.08,25.0,0,0,0.8,2000-2005,0,1.432
+Atorvastatin,Rhabdomyolysis Low Dose,REFUTED,Literature Review,11,30,24.85,25,35,35,30,40.68,15.0,0,0,0.8,2015-2020,1,1.487
+Cefazolin,Anaphylaxis Low Risk,REFUTED,OHDSI Neg Control,38,40,36.64,20,35,20,20,27.97,40.0,0,0,0.8,2015-2020,0,1.668
+Clopidogrel,Neutropenia,REFUTED,CAPRIE Trial,1371,35,72.24,22,35,40,30,30.82,10.0,0,0,0.8,2010-2015,1,0.943
+Erythromycin,Arrhythmia Low Dose,REFUTED,OHDSI Neg Control,38,35,36.64,18,35,20,20,35.82,50.0,0,0,0.8,2000-2005,0,1.72
+Furosemide,Gout,REFUTED,Observational Study,1616,20,73.88,32,35,30,25,38.37,50.0,0,0,0.8,2000-2005,0,1.351
+Heparin,Thrombocytopenia Minor,REFUTED,Label Info,37,25,36.38,35,35,35,30,35.4,70.0,0,0,0.8,2020-2025,0,0.913
+Lisinopril,Angioedema Low Risk,REFUTED,OHDSI Neg Control,15,30,27.73,20,35,20,20,32.15,30.0,0,0,0.8,2005-2010,0,0.615
+Metoprolol,Depression,REFUTED,Systematic Review,5659,25,86.41,22,35,35,30,32.71,40.0,1,0,0.8,2015-2020,0,1.425
+Penicillin,Anaphylaxis Minor,REFUTED,Literature Case,38,40,36.64,25,40,25,20,28.27,80.0,0,0,0.8,2005-2010,1,0.904
+Phenytoin,Gingival Hyperplasia Minor,REFUTED,Label Info,23,15,31.78,35,30,35,25,28.52,70.0,0,0,0.8,2020-2025,0,1.629
+Prednisone,Osteoporosis Low Dose,REFUTED,Prescribing Info,10,22,23.98,28,35,30,25,27.08,60.0,0,0,0.8,2010-2015,1,1.31
+Propranolol,Fatigue,REFUTED,Label Info,3859,10,82.58,38,30,35,25,35.6,50.0,0,0,0.8,2000-2005,1,0.852
+Salicylic acid,Tinnitus Low Dose,REFUTED,Label Info,39,15,36.89,32,30,30,25,31.99,100.0,0,0,0.8,2000-2005,1,1.533
+Warfarin,Bleeding Minor,REFUTED,Label Info,29,30,34.01,38,35,38,30,42.57,70.0,0,0,0.8,2020-2025,0,1.313
+Digoxin,Nausea Low Dose,REFUTED,OHDSI Neg Control,41,15,37.38,25,35,20,20,26.71,70.0,0,0,0.8,2020-2025,1,0.763
+Hydrochlorothiazide,Hypokalemia Minor,REFUTED,Label Info,29,20,34.01,35,35,35,30,41.8,50.0,0,0,0.8,2000-2005,0,0.87
+Allopurinol,Gastrointestinal Bleeding,REFUTED,OHDSI Neg Control,6,30,19.46,12,35,18,15,28.21,40.0,0,0,0.8,2015-2020,0,1.165
+Carbamazepine,Hyponatremia Minor,REFUTED,Label Info,19,25,29.96,35,35,35,30,36.32,33.0,0,0,0.8,2005-2010,0,0.977
+Gabapentin,Alopecia,REFUTED,OHDSI Neg Control,4671,15,84.49,10,30,15,12,24.19,18.0,0,0,0.8,unknown,1,0.485
+Sertraline,Pancreatitis,REFUTED,OHDSI Neg Control,1337,25,71.99,8,35,12,15,20.35,15.0,0,0,0.8,unknown,0,1.047
+Fluoxetine,Myocardial Infarction Low Risk,REFUTED,OHDSI Neg Control,39,35,36.89,12,40,18,20,22.3,25.0,0,0,0.8,unknown,0,0.142
+Albuterol,Alzheimer Disease,REFUTED,OHDSI Neg Control,18,20,29.44,5,35,10,10,16.49,40.0,0,0,0.8,unknown,0,0.886
+Montelukast,Pancreatic Cancer,REFUTED,OHDSI Neg Control,39,30,36.89,8,35,12,15,23.29,22.0,0,0,0.8,unknown,0,0.489
+Diazepam,Renal Failure Chronic,REFUTED,OHDSI Neg Control,82,35,44.19,10,40,15,18,32.44,45.0,0,0,0.8,unknown,0,0.324
+Amitriptyline,Lung Cancer,REFUTED,OHDSI Neg Control,11,30,24.85,8,35,12,15,23.34,40.0,0,0,0.8,unknown,0,0.401
+Aspirin,Parkinson Disease,REFUTED,OHDSI Neg Control,26,20,32.96,12,35,18,20,22.53,100.0,0,0,0.8,unknown,0,0.603
+Ibuprofen,Breast Cancer,REFUTED,OHDSI Neg Control,1581,38,73.66,10,40,15,18,24.56,40.0,0,0,0.8,unknown,0,0.161
+Amlodipine,Dementia,REFUTED,OHDSI Neg Control,1378,25,72.29,15,40,20,22,29.49,20.0,0,0,0.8,unknown,1,1.391
